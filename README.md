@@ -6,8 +6,8 @@ Additionally, user experience is a paramount consideration in the design phase o
 
 Furthermore, our development team remains agile and responsive to evolving project requirements. We continuously iterate and refine the application, incorporating feedback from both clients and stakeholders to ensure that it aligns perfectly with the objectives of FungFank Medical Centre. In essence, the FungFank Medical Centre project represents a significant step forward in modernizing medication procurement processes. By leveraging cutting-edge technology and a user-centric approach, we are poised to deliver a solution that revolutionizes the way clients interact with medical services.
 
-Flowchart
+
 ![Flowchart_client](https://github.com/raihanatsal23/FungFank/assets/101855324/62d24319-b888-49e5-9ad6-28377f95a99c)
 
-Model System
+
 ![Model_Sistem](https://github.com/raihanatsal23/FungFank/assets/101855324/e6ece6ea-b0d9-4363-9e81-431c98ffaae8)
